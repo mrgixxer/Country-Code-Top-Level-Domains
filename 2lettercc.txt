@@ -238,7 +238,6 @@ ua
 ug
 uk
 um
-us
 uy
 uz
 va
